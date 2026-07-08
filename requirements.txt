@@ -2,3 +2,6 @@ requests
 html2text
 beautifulsoup4
 pyyaml
+openai
+python-dotenv
+tiktoken
