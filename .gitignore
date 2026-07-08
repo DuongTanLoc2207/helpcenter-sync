@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Articles (không commit 405 file .md vào repo)
+articles/
+
+# Virtual environment
+venv/
+.venv/
