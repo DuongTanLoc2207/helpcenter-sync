@@ -40,7 +40,7 @@ Docker:
 
 ```bash
 docker build -t helpcenter-sync .
-docker run -e OPENAI_API_KEY=... -e OPENAI_ASSISTANT_ID=... helpcenter-sync
+docker run --rm --env-file .env helpcenter-sync
 ```
 
 ## Daily job logs
