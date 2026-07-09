@@ -10,3 +10,5 @@ articles/
 # Virtual environment
 venv/
 .venv/
+
+upload_state.json
