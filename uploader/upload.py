@@ -1,4 +1,3 @@
-import json
 import logging
 import math
 import os
@@ -11,7 +10,6 @@ from openai import OpenAI
 
 ARTICLES_DIR = "articles"
 VECTOR_STORE_NAME = "OptiSigns Help Center"
-STATE_FILE = "upload_state.json"
 CHUNK_SIZE_TOKENS = 800
 CHUNK_OVERLAP_TOKENS = 400
 TOKEN_ENCODING = "cl100k_base"
@@ -28,7 +26,7 @@ def get_markdown_files():
 
 
 def parse_frontmatter(path):
-    """Extract the YAML frontmatter block from a markdown file, if present."""
+    """Extract YAML frontmatter from a markdown file."""
     with open(path, "r", encoding="utf-8") as f:
         content = f.read()
     if not content.startswith("---"):
@@ -54,7 +52,7 @@ def parse_timestamp(value):
 
 
 def is_newer(new_value, old_value):
-    """True if new_value's timestamp is strictly after old_value's (falls back to inequality)."""
+    """Compare timestamps; falls back to inequality if unparsable."""
     new_dt = parse_timestamp(new_value)
     old_dt = parse_timestamp(old_value)
     if new_dt is None or old_dt is None:
@@ -62,29 +60,23 @@ def is_newer(new_value, old_value):
     return new_dt > old_dt
 
 
-def load_state():
-    if not os.path.isfile(STATE_FILE):
-        return {"vector_store_id": None, "files": {}}
-    try:
-        with open(STATE_FILE, "r", encoding="utf-8") as f:
-            state = json.load(f)
-    except (OSError, json.JSONDecodeError) as e:
-        logger.warning("Could not read %s (%s); starting with empty state", STATE_FILE, e)
-        return {"vector_store_id": None, "files": {}}
-    state.setdefault("vector_store_id", None)
-    state.setdefault("files", {})
-    return state
+def load_known_files(client, vector_store_id):
+    """Reconstruct known files state from vector store file attributes."""
+    known_files = {}
+    for vs_file in client.vector_stores.files.list(vector_store_id=vector_store_id, filter="completed", limit=100):
+        attributes = vs_file.attributes or {}
+        filename = attributes.get("filename")
+        if not filename:
+            continue
+        known_files[filename] = {
+            "updated_at": attributes.get("updated_at") or None,
+            "file_id": vs_file.id,
+        }
+    return known_files
 
 
-def save_state(state):
-    with open(STATE_FILE, "w", encoding="utf-8") as f:
-        json.dump(state, f, indent=2, ensure_ascii=False)
-        f.write("\n")
-
-
-def build_delta(filepaths, state):
-    """Classify each markdown file as added, updated, or skipped based on frontmatter updated_at."""
-    known_files = state.get("files", {})
+def build_delta(filepaths, known_files):
+    """Classify files as added, updated, or skipped by comparing updated_at."""
     added, updated, skipped = [], [], []
     for path in filepaths:
         filename = os.path.basename(path)
@@ -110,7 +102,7 @@ def estimate_chunks_for_tokens(token_count, chunk_size=CHUNK_SIZE_TOKENS, overla
 
 
 def estimate_total_chunks(filepaths):
-    """Estimate chunk count per file (chunk_size=800, overlap=400 tokens) using tiktoken."""
+    """Estimate total chunk count across files using tiktoken."""
     encoding = tiktoken.get_encoding(TOKEN_ENCODING)
     total_tokens = 0
     total_chunks = 0
@@ -135,7 +127,7 @@ def get_or_create_vector_store(client):
 
 
 def remove_stale_file(client, vector_store_id, file_id):
-    """Detach and delete a previously uploaded file version before re-uploading an update."""
+    """Detach and delete a stale file version before re-upload."""
     try:
         client.vector_stores.files.delete(file_id=file_id, vector_store_id=vector_store_id)
     except Exception as e:
@@ -147,7 +139,7 @@ def remove_stale_file(client, vector_store_id, file_id):
 
 
 def upload_files(client, vector_store_id, to_process):
-    """Upload each (path, filename, updated_at) file individually so we can track its file_id, then batch-attach."""
+    """Upload files individually, then batch-attach to the vector store."""
     file_ids = []
     file_id_by_filename = {}
     for path, filename, _updated_at in to_process:
@@ -160,11 +152,19 @@ def upload_files(client, vector_store_id, to_process):
         vector_store_id=vector_store_id,
         file_ids=file_ids,
     )
-    return batch, file_id_by_filename
+
+    for _path, filename, updated_at in to_process:
+        client.vector_stores.files.update(
+            file_id_by_filename[filename],
+            vector_store_id=vector_store_id,
+            attributes={"filename": filename, "updated_at": updated_at or ""},
+        )
+
+    return batch
 
 
 def attach_vector_store_to_assistant(client, assistant_id, vector_store_id):
-    """Attach the vector store via file_search without dropping the assistant's other tools."""
+    """Attach vector store via file_search, preserving other assistant tools."""
     assistant = client.beta.assistants.retrieve(assistant_id)
     tools = [tool.model_dump() for tool in assistant.tools]
     if not any(tool["type"] == "file_search" for tool in tools):
@@ -196,11 +196,9 @@ def main():
         return
     logger.info("Found %d markdown file(s) in %s", len(filepaths), ARTICLES_DIR)
 
-    state = load_state()
-    added, updated, skipped = build_delta(filepaths, state)
-
     vector_store = get_or_create_vector_store(client)
-    state["vector_store_id"] = vector_store.id
+    known_files = load_known_files(client, vector_store.id)
+    added, updated, skipped = build_delta(filepaths, known_files)
 
     for _path, filename, _updated_at, old_file_id in updated:
         if old_file_id:
@@ -212,7 +210,7 @@ def main():
     to_process += [(path, filename, updated_at) for path, filename, updated_at, _old_id in updated]
 
     if to_process:
-        batch, file_id_by_filename = upload_files(client, vector_store.id, to_process)
+        batch = upload_files(client, vector_store.id, to_process)
         logger.info(
             "Upload finished (status=%s): %d completed, %d failed, %d in progress",
             batch.status,
@@ -220,12 +218,6 @@ def main():
             batch.file_counts.failed,
             batch.file_counts.in_progress,
         )
-
-        for _path, filename, updated_at in to_process:
-            state["files"][filename] = {
-                "updated_at": updated_at,
-                "file_id": file_id_by_filename[filename],
-            }
 
         total_tokens, estimated_chunks = estimate_total_chunks([path for path, _f, _u in to_process])
         logger.info(
@@ -238,7 +230,6 @@ def main():
     else:
         logger.info("No new or updated files to upload")
 
-    save_state(state)
     attach_vector_store_to_assistant(client, assistant_id, vector_store.id)
 
     logger.info(
