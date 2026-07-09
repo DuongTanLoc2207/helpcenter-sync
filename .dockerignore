@@ -1,0 +1,13 @@
+.env
+.env.sample
+articles/
+upload_state.json
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+.git/
+.gitignore
+venv/
+.venv/
+README.md
