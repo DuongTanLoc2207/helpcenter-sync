@@ -1,0 +1,439 @@
+2026-07-09T11:38:45.078212377Z [inf]  Starting Container
+2026-07-09T11:38:45.850608410Z [err]  2026-07-09 11:38:45,049 INFO Job started
+2026-07-09T11:38:45.850613790Z [err]  2026-07-09 11:38:45,479 INFO Fetched 30 articles so far...
+2026-07-09T11:38:46.025698139Z [err]  2026-07-09 11:38:46,015 INFO Fetched 60 articles so far...
+2026-07-09T11:38:46.547958878Z [err]  2026-07-09 11:38:46,542 INFO Fetched 90 articles so far...
+2026-07-09T11:38:47.070421896Z [err]  2026-07-09 11:38:47,069 INFO Fetched 120 articles so far...
+2026-07-09T11:38:47.595051379Z [err]  2026-07-09 11:38:47,593 INFO Fetched 150 articles so far...
+2026-07-09T11:38:48.103931112Z [err]  2026-07-09 11:38:48,100 INFO Fetched 180 articles so far...
+2026-07-09T11:38:48.616527164Z [err]  2026-07-09 11:38:48,607 INFO Fetched 210 articles so far...
+2026-07-09T11:38:49.133285557Z [err]  2026-07-09 11:38:49,130 INFO Fetched 240 articles so far...
+2026-07-09T11:38:49.675791433Z [err]  2026-07-09 11:38:49,669 INFO Fetched 270 articles so far...
+2026-07-09T11:38:50.172963372Z [err]  2026-07-09 11:38:50,170 INFO Fetched 300 articles so far...
+2026-07-09T11:38:50.888138414Z [err]  2026-07-09 11:38:50,698 INFO Fetched 330 articles so far...
+2026-07-09T11:38:51.233288949Z [err]  2026-07-09 11:38:51,214 INFO Fetched 360 articles so far...
+2026-07-09T11:38:51.898164162Z [err]  2026-07-09 11:38:51,718 INFO Fetched 390 articles so far...
+2026-07-09T11:38:52.214211003Z [err]  2026-07-09 11:38:52,209 INFO Fetched 406 articles so far...
+2026-07-09T11:38:52.214219123Z [err]  2026-07-09 11:38:52,209 INFO Total: 406 articles
+2026-07-09T11:38:52.226486081Z [err]  2026-07-09 11:38:52,226 INFO Saved: Refer & Earn: OptiSigns Referral Program
+2026-07-09T11:38:52.234369330Z [err]  2026-07-09 11:38:52,232 INFO Saved: What Access Does OptiSigns Have to My Account and Devices?
+2026-07-09T11:38:52.238018708Z [err]  2026-07-09 11:38:52,237 INFO Saved: Using the Japan Earthquake App
+2026-07-09T11:38:52.249753133Z [err]  2026-07-09 11:38:52,243 INFO Saved: How to Display a Snowflake Dashboard with OptiSigns
+2026-07-09T11:38:52.249756933Z [err]  2026-07-09 11:38:52,248 INFO Saved: OptiSigns Digital Signage App for Zoom — Adding, Using, and Removing the App
+2026-07-09T11:38:52.263471984Z [err]  2026-07-09 11:38:52,258 INFO Saved: Connect Google Meet Hardware to OptiSigns Digital Signage
+2026-07-09T11:38:52.275853492Z [err]  2026-07-09 11:38:52,269 INFO Saved: Connect Microsoft Teams Rooms to OptiSigns Digital Signage
+2026-07-09T11:38:52.278623999Z [err]  2026-07-09 11:38:52,278 INFO Saved: Room Integrations: Turn Your Meeting Rooms into Digital Signage
+2026-07-09T11:38:52.291639539Z [err]  2026-07-09 11:38:52,288 INFO Saved: Connect Zoom Rooms to OptiSigns Digital Signage
+2026-07-09T11:38:52.303907647Z [err]  2026-07-09 11:38:52,297 INFO Saved: Connect Cisco Webex Rooms to OptiSigns Digital Signage
+2026-07-09T11:38:52.309825899Z [err]  2026-07-09 11:38:52,308 INFO Saved: ChromeOS PWA Instructions
+2026-07-09T11:38:52.321869520Z [err]  2026-07-09 11:38:52,315 INFO Saved: How to Use the Google Ads Dashboard App
+2026-07-09T11:38:52.322926927Z [err]  2026-07-09 11:38:52,321 INFO Saved: How to Use the Google Search Console App
+2026-07-09T11:38:52.330032255Z [err]  2026-07-09 11:38:52,329 INFO Saved: How to Use the YouTube Dashboard App
+2026-07-09T11:38:52.344277241Z [err]  2026-07-09 11:38:52,338 INFO Saved: Operational Schedule Troubleshooting
+2026-07-09T11:38:52.344280311Z [err]  2026-07-09 11:38:52,343 INFO Saved: How to Use the OptiDev App
+2026-07-09T11:38:52.347949509Z [err]  2026-07-09 11:38:52,346 INFO Saved: How to Set Up an Outlook Calendar App with Shared Permissions
+2026-07-09T11:38:52.354335915Z [err]  2026-07-09 11:38:52,352 INFO Saved: Using an Enterprise Network (802.1x) with OptiSigns
+2026-07-09T11:38:52.368321673Z [err]  2026-07-09 11:38:52,363 INFO Saved: User Management Example - Chain Restaurant or Retail Store with Multiple Locations
+2026-07-09T11:38:52.391818002Z [err]  2026-07-09 11:38:52,384 INFO Saved: Getting Started with Designer
+2026-07-09T11:38:52.398591664Z [err]  2026-07-09 11:38:52,397 INFO Saved: Designer 2.0 New Features
+2026-07-09T11:38:52.410489647Z [err]  2026-07-09 11:38:52,408 INFO Saved: OptiSigns Pro/ProMax Player Troubleshooting Guide
+2026-07-09T11:38:52.416087582Z [err]  2026-07-09 11:38:52,414 INFO Saved: How to Play Licensed Background Music on Digital Signs with OptiSound
+2026-07-09T11:38:52.421761966Z [err]  2026-07-09 11:38:52,418 INFO Saved: Disk Encryption
+2026-07-09T11:38:52.439845348Z [err]  2026-07-09 11:38:52,435 INFO Saved: OptiStick Troubleshooting Guide
+2026-07-09T11:38:52.439852728Z [err]  2026-07-09 11:38:52,438 INFO Saved: Fixing Unexpected Screen Rotation & Incorrect Orientation with OptiSigns Android Stick
+2026-07-09T11:38:52.448846264Z [err]  2026-07-09 11:38:52,447 INFO Saved: How to Use the Tableau App
+2026-07-09T11:38:52.451939298Z [err]  2026-07-09 11:38:52,450 INFO Saved: Handle OAuth Authentication using API Gateway Pre-request Configuration
+2026-07-09T11:38:52.461853244Z [err]  2026-07-09 11:38:52,460 INFO Saved: Tagging in OptiSigns
+2026-07-09T11:38:52.467757265Z [err]  2026-07-09 11:38:52,465 INFO Saved: Getting Started with an OptiSigns Free Trial
+2026-07-09T11:38:52.473498679Z [err]  2026-07-09 11:38:52,471 INFO Saved: How to Use OptiSigns with Microsoft Teams Rooms
+2026-07-09T11:38:52.479152834Z [err]  2026-07-09 11:38:52,478 INFO Saved: How to access the Troubleshooting page of the OptiSigns Player
+2026-07-09T11:38:52.484911038Z [err]  2026-07-09 11:38:52,482 INFO Saved: How to Using SEPA and iDEAL for EUR Currency Subscription Payments
+2026-07-09T11:38:52.545303100Z [err]  2026-07-09 11:38:52,535 INFO Saved: How to Install a Root Certificate and Display an Internal Website on Screens
+2026-07-09T11:38:52.545308540Z [err]  2026-07-09 11:38:52,539 INFO Saved: Accepted Payment Methods
+2026-07-09T11:38:52.546818083Z [err]  2026-07-09 11:38:52,546 INFO Saved: What Do I Get With an OptiSigns Free Plan?
+2026-07-09T11:38:52.570067985Z [err]  2026-07-09 11:38:52,560 INFO Saved: Making a Video Wall with OptiSigns (Video Wall App)
+2026-07-09T11:38:52.570073324Z [err]  2026-07-09 11:38:52,567 INFO Saved: How to Set Up a Power BI Service Principal for Use in OptiSigns
+2026-07-09T11:38:52.576147484Z [err]  2026-07-09 11:38:52,572 INFO Saved: Display Salesforce Dashboards with MFA using Web Scripting
+2026-07-09T11:38:52.577230782Z [err]  2026-07-09 11:38:52,576 INFO Saved: How to Order a Preconfigured OptiSigns Android Player Device
+2026-07-09T11:38:52.600856859Z [err]  2026-07-09 11:38:52,590 INFO Saved: Integrating Point-of-Sale (POS) Systems to Build Digital Menu Boards with OptiSync
+2026-07-09T11:38:52.600860009Z [err]  2026-07-09 11:38:52,593 INFO Saved: Configuring Mass Deployment with Jamf Pro MDM on Apple Devices
+2026-07-09T11:38:52.609026304Z [err]  2026-07-09 11:38:52,606 INFO Saved: Getting Started with Touch Screen Kiosks
+2026-07-09T11:38:52.615099064Z [err]  2026-07-09 11:38:52,610 INFO Saved: How to use Toast API data with OptiSigns
+2026-07-09T11:38:52.621458581Z [err]  2026-07-09 11:38:52,619 INFO Saved: Enabling Lock Down Mode on Touch Screen Devices
+2026-07-09T11:38:52.628173703Z [err]  2026-07-09 11:38:52,623 INFO Saved: How to Use the Mobile App for Remote Control
+2026-07-09T11:38:52.633616740Z [err]  2026-07-09 11:38:52,631 INFO Saved: Guide for Creating Content with OptiSigns
+2026-07-09T11:38:52.642013143Z [err]  2026-07-09 11:38:52,639 INFO Saved: List of Supported Cities for Weather Wall City Themes
+2026-07-09T11:38:52.647717198Z [err]  2026-07-09 11:38:52,643 INFO Saved: How to Clear Cache on a BrightSign Player
+2026-07-09T11:38:52.653772597Z [err]  2026-07-09 11:38:52,650 INFO Saved: How to Create an Attract Screen for Your Kiosk
+2026-07-09T11:38:52.671453283Z [err]  2026-07-09 11:38:52,667 INFO Saved: How to Set Up Dynamic Data Mapping with OptiSync
+2026-07-09T11:38:52.677991859Z [err]  2026-07-09 11:38:52,676 INFO Saved: How To Create and Use Operational Schedules (HDMI-CEC, RS-232)
+2026-07-09T11:38:52.680131014Z [err]  2026-07-09 11:38:52,678 INFO Saved: Performance/Stability issues on Android devices and Best Practices
+2026-07-09T11:38:52.686670578Z [err]  2026-07-09 11:38:52,681 INFO Saved: Samsung Tizen TVs Troubleshooting Guide
+2026-07-09T11:38:52.686682398Z [err]  2026-07-09 11:38:52,684 INFO Saved: Roku Troubleshooting guide
+2026-07-09T11:38:52.927459647Z [err]  2026-07-09 11:38:52,770 INFO Saved: How to Integrate API and Publish API Data via OptiSync
+2026-07-09T11:38:52.927468467Z [err]  2026-07-09 11:38:52,694 INFO Saved: How to Create & Use Playlists
+2026-07-09T11:38:52.927494407Z [err]  2026-07-09 11:38:52,698 INFO Saved: How to Use QR Overlay App in Engage
+2026-07-09T11:38:52.927500777Z [err]  2026-07-09 11:38:52,700 INFO Saved: How to Change Close & Nav Bar Styler Preferences
+2026-07-09T11:38:52.927504017Z [err]  2026-07-09 11:38:52,728 INFO Saved: How to Lockdown iPad/Single App with Guided Accessibility
+2026-07-09T11:38:52.927512717Z [err]  2026-07-09 11:38:52,730 INFO Saved: How to add a QR Code in designs using OptiSigns’ Designer
+2026-07-09T11:38:52.927516506Z [err]  2026-07-09 11:38:52,735 INFO Saved: What Are Feeds and How to Use It
+2026-07-09T11:38:52.927524456Z [err]  2026-07-09 11:38:52,737 INFO Saved: How to get Google Review link
+2026-07-09T11:38:52.927528636Z [err]  2026-07-09 11:38:52,706 INFO Saved: AI Camera App - Quick Start
+2026-07-09T11:38:52.927531166Z [err]  2026-07-09 11:38:52,745 INFO Saved: How to use Check-in app with SMS follow up
+2026-07-09T11:38:52.927535546Z [err]  2026-07-09 11:38:52,709 INFO Saved: Amazon TV / FireStick Troubleshooting Guide
+2026-07-09T11:38:52.927539346Z [err]  2026-07-09 11:38:52,748 INFO Saved: Engage Plan - FAQs
+2026-07-09T11:38:52.927543226Z [err]  2026-07-09 11:38:52,714 INFO Saved: Move Screens or Devices from One Account to Another
+2026-07-09T11:38:52.927546336Z [err]  2026-07-09 11:38:52,751 INFO Saved: How to enable auto-start on FireOS 8 devices like Amazon Fire TV Stick 4K Gen 2 (2023 model)
+2026-07-09T11:38:52.927551406Z [err]  2026-07-09 11:38:52,720 INFO Saved: How to use iCloud Calendar with OptiSigns
+2026-07-09T11:38:52.927554216Z [err]  2026-07-09 11:38:52,757 INFO Saved: How to setup AeriCast Meet (Wireless Video Conferencing)
+2026-07-09T11:38:52.927558236Z [err]  2026-07-09 11:38:52,725 INFO Saved: OptiStick
+2026-07-09T11:38:52.928233738Z [err]  2026-07-09 11:38:52,809 INFO Saved: Push Contents to your Screens
+2026-07-09T11:38:52.928240328Z [err]  2026-07-09 11:38:52,817 INFO Saved: OptiSigns - Getting Started Guide
+2026-07-09T11:38:52.928244998Z [err]  2026-07-09 11:38:52,819 INFO Saved: How to keep OptiSigns running on Fire Stick
+2026-07-09T11:38:52.928249748Z [err]  2026-07-09 11:38:52,821 INFO Saved: How to Customize the Thumbnail of Files, Assets, and Folders
+2026-07-09T11:38:52.928254419Z [err]  2026-07-09 11:38:52,824 INFO Saved: How to Configure Multi-Factor Authentication with your OptiSigns account.
+2026-07-09T11:38:52.928258989Z [err]  2026-07-09 11:38:52,827 INFO Saved: Samsung Smart Signage Platform (SSSP) Supported Model List
+2026-07-09T11:38:52.928292418Z [err]  2026-07-09 11:38:52,775 INFO Saved: Advanced Playlist Item Playback Control & Campaign Management
+2026-07-09T11:38:52.928295888Z [err]  2026-07-09 11:38:52,780 INFO Saved: How to Share Playlist and Folder with External Users
+2026-07-09T11:38:52.928299418Z [err]  2026-07-09 11:38:52,786 INFO Saved: How to Use Content Tags in The Playlist
+2026-07-09T11:38:52.928302768Z [err]  2026-07-09 11:38:52,788 INFO Saved: Your Facebook Page Doesn't Show in The Dropdown List
+2026-07-09T11:38:52.928305808Z [err]  2026-07-09 11:38:52,790 INFO Saved: How to Use Coordinate-Based Positioning and Sizing of Elements in OptiSigns' Designer
+2026-07-09T11:38:52.928309228Z [err]  2026-07-09 11:38:52,794 INFO Saved: Navigating Through OptiSigns' Template Library
+2026-07-09T11:38:52.928314708Z [err]  2026-07-09 11:38:52,795 INFO Saved: External Storage on OptiSigns Devices
+2026-07-09T11:38:52.928319438Z [err]  2026-07-09 11:38:52,798 INFO Saved: How to Control and Schedule Playlist Items
+2026-07-09T11:38:52.928324418Z [err]  2026-07-09 11:38:52,800 INFO Saved: How to use Secured Dashboard App
+2026-07-09T11:38:52.928328328Z [err]  2026-07-09 11:38:52,804 INFO Saved: How to use Yammer app on OptiSigns
+2026-07-09T11:38:52.930465163Z [err]  2026-07-09 11:38:52,835 INFO Saved: How to Create a Content Library Kiosk
+2026-07-09T11:38:52.930467923Z [err]  2026-07-09 11:38:52,838 INFO Saved: Event logging and analytics for External Communication(RS-232)
+2026-07-09T11:38:52.930470613Z [err]  2026-07-09 11:38:52,839 INFO Saved: Display PowerPoint/Google Slides in whole screen when casting from MacBook Pro
+2026-07-09T11:38:52.930473203Z [err]  2026-07-09 11:38:52,841 INFO Saved: How to use Streaming App with OptiSigns
+2026-07-09T11:38:52.930475673Z [err]  2026-07-09 11:38:52,843 INFO Saved: Silent Installation process for OptiSigns Player on Windows
+2026-07-09T11:38:52.930479253Z [err]  2026-07-09 11:38:52,844 INFO Saved: The OptiSigns app keeps turning on the TV screen
+2026-07-09T11:38:52.930482073Z [err]  2026-07-09 11:38:52,852 INFO Saved: How to Design Kiosk Apps Using Kiosk Designer Pro
+2026-07-09T11:38:52.930484773Z [err]  2026-07-09 11:38:52,854 INFO Saved: Cannot find the OptiSigns app on Your Samsung Smart TV
+2026-07-09T11:38:52.930487263Z [err]  2026-07-09 11:38:52,857 INFO Saved: Build Integration Using OptiSigns Enterprise App
+2026-07-09T11:38:52.930490063Z [err]  2026-07-09 11:38:52,871 INFO Saved: OptiSigns IoT Sensor Add-on - Quick Start
+2026-07-09T11:38:52.930492753Z [err]  2026-07-09 11:38:52,872 INFO Saved: Show/Hide downloading status on your Player
+2026-07-09T11:38:52.930495403Z [err]  2026-07-09 11:38:52,873 INFO Saved: What if the OptiSigns app does not auto-start on an Android TV?
+2026-07-09T11:38:52.930498103Z [err]  2026-07-09 11:38:52,876 INFO Saved: How to put Live TV on your screens with OptiSigns
+2026-07-09T11:38:52.930500533Z [err]  2026-07-09 11:38:52,878 INFO Saved: Data Residency and OptiSigns
+2026-07-09T11:38:52.930503213Z [err]  2026-07-09 11:38:52,881 INFO Saved: Using RS-232 to Schedule TV Power On/Off or other commands
+2026-07-09T11:38:52.930505743Z [err]  2026-07-09 11:38:52,884 INFO Saved: How to get the MAC Address on your media player
+2026-07-09T11:38:52.933419728Z [err]  2026-07-09 11:38:52,885 INFO Saved: How to hide certain templates categories in Designers
+2026-07-09T11:38:52.933425758Z [err]  2026-07-09 11:38:52,887 INFO Saved: Host your HTML/JS or Create your own Web App with Hosted Website
+2026-07-09T11:38:52.933431218Z [err]  2026-07-09 11:38:52,888 INFO Saved: Using eyedrop feature to select color in Designer app
+2026-07-09T11:38:52.933435798Z [err]  2026-07-09 11:38:52,890 INFO Saved: Apple TV player release notes & limitations
+2026-07-09T11:38:52.933440408Z [err]  2026-07-09 11:38:52,891 INFO Saved: How to organize templates and share across teams 
+2026-07-09T11:38:52.933480259Z [err]  2026-07-09 11:38:52,904 INFO Saved: Synchronized playback (Sync Play) feature
+2026-07-09T11:38:52.933486578Z [err]  2026-07-09 11:38:52,893 INFO Saved: Manually control playlist playback with OptiSigns
+2026-07-09T11:38:52.933487868Z [err]  2026-07-09 11:38:52,905 INFO Saved: Clean install OptiSigns on Raspberry Pi/Linux
+2026-07-09T11:38:52.933493628Z [err]  2026-07-09 11:38:52,906 INFO Saved: How to Connect to 802.1x Enterprise WiFi on Raspberry Pi
+2026-07-09T11:38:52.933499148Z [err]  2026-07-09 11:38:52,909 INFO Saved: How to Integrate Bonusly Digital Signage with Optisigns
+2026-07-09T11:38:52.933505298Z [err]  2026-07-09 11:38:52,913 INFO Saved: How to use Remote Command Execution - Windows/Linux
+2026-07-09T11:38:52.933508338Z [err]  2026-07-09 11:38:52,901 INFO Saved: How to Perform Mass Provisioning with OptiSigns
+2026-07-09T11:38:52.933518278Z [err]  2026-07-09 11:38:52,902 INFO Saved: Introduction
+2026-07-09T11:38:52.933609267Z [err]  2026-07-09 11:38:52,915 INFO Saved: How to Use Weather Apps Based on Device Location
+2026-07-09T11:38:52.933618687Z [err]  2026-07-09 11:38:52,920 INFO Saved: How to set up SAML 2.0 with OptiSigns and Google Workspace
+2026-07-09T11:38:52.933625927Z [err]  2026-07-09 11:38:52,925 INFO Saved: How to set up SAML 2.0 with OptiSigns and OneLogin(Shibboleth)
+2026-07-09T11:38:52.934751003Z [err]  2026-07-09 11:38:52,932 INFO Saved: How to set up SAML 2.0 with OptiSigns and OneLogin
+2026-07-09T11:38:52.947402847Z [err]  2026-07-09 11:38:52,945 INFO Saved: How to Set Up SAML 2.0 with OptiSigns and MS Entra ID (formerly Azure AD)
+2026-07-09T11:38:52.954135749Z [err]  2026-07-09 11:38:52,949 INFO Saved: SAML Integration Strategies & Best Practices
+2026-07-09T11:38:52.954140949Z [err]  2026-07-09 11:38:52,950 INFO Saved: Map View & Screen Location settings
+2026-07-09T11:38:52.954145339Z [err]  2026-07-09 11:38:52,952 INFO Saved: How to "unpin" OptiSigns app on your Managed Android Stick Player
+2026-07-09T11:38:52.954150439Z [err]  2026-07-09 11:38:52,953 INFO Saved: Add 1 or multiple assets to many playlists at the same time
+2026-07-09T11:38:52.961047250Z [err]  2026-07-09 11:38:52,959 INFO Saved: How to set up SAML 2.0  with OptiSigns and Okta
+2026-07-09T11:38:52.974580124Z [err]  2026-07-09 11:38:52,967 INFO Saved: How to Use OptiSigns' Template & Designer to Make Your Digital Signs in Minutes
+2026-07-09T11:38:52.974587023Z [err]  2026-07-09 11:38:52,970 INFO Saved: How to approve OptiSigns as Enterprise App on Microsoft Azure (for Power BI, Calendar, etc. access)
+2026-07-09T11:38:52.974591653Z [err]  2026-07-09 11:38:52,973 INFO Saved: How to set up Audit Log for your account
+2026-07-09T11:38:52.981256376Z [err]  2026-07-09 11:38:52,977 INFO Saved: How to set up Monitoring Alert feature 
+2026-07-09T11:38:52.987362975Z [err]  2026-07-09 11:38:52,985 INFO Saved: How to use the Web Scripting App
+2026-07-09T11:38:52.988926458Z [err]  2026-07-09 11:38:52,987 INFO Saved: Adjust the GPU memory on the Raspberry Pi
+2026-07-09T11:38:52.990391861Z [err]  2026-07-09 11:38:52,988 INFO Saved: Resolve Autostart issues on your Android TV devices
+2026-07-09T11:38:52.990397661Z [err]  2026-07-09 11:38:52,989 INFO Saved: Install/Update OptiSigns player on RPi via script
+2026-07-09T11:38:52.996623369Z [err]  2026-07-09 11:38:52,992 INFO Saved: How to enable SSH for your Raspberry Pi
+2026-07-09T11:38:52.996628289Z [err]  2026-07-09 11:38:52,996 INFO Saved: How to use Live TV with Ads App
+2026-07-09T11:38:52.998464278Z [err]  2026-07-09 11:38:52,997 INFO Saved: Multi-select assets in Files/Assets view
+2026-07-09T11:38:52.999866692Z [err]  2026-07-09 11:38:52,999 INFO Saved: Clean install of OptiSigns Player on Windows
+2026-07-09T11:38:53.001221116Z [err]  2026-07-09 11:38:53,000 INFO Saved: How to move screen to other team
+2026-07-09T11:38:53.002962725Z [err]  2026-07-09 11:38:53,002 INFO Saved: How to mass deploy OptiSigns on Raspberry Pi devices
+2026-07-09T11:38:53.009858796Z [err]  2026-07-09 11:38:53,005 INFO Saved: How to install OptiSigns as Screensaver on Roku
+2026-07-09T11:38:53.012337808Z [err]  2026-07-09 11:38:53,011 INFO Saved: How to mix playlists and maintain screen time share with OptiSigns Content Rotation App
+2026-07-09T11:38:53.015981185Z [err]  2026-07-09 11:38:53,014 INFO Saved: Advanced: Enforce SSO login for your account
+2026-07-09T11:38:53.018173290Z [err]  2026-07-09 11:38:53,016 INFO Saved: How to allow the OptiSigns app to access local storage on a Fire Stick
+2026-07-09T11:38:53.020152787Z [err]  2026-07-09 11:38:53,019 INFO Saved: How to use YouTube Playlist with OptiSigns
+2026-07-09T11:38:53.028771998Z [err]  2026-07-09 11:38:53,023 INFO Saved: Billing: How Do I Change my Subscription Plan?
+2026-07-09T11:38:53.030424339Z [err]  2026-07-09 11:38:53,029 INFO Saved: Custom Branding Settings
+2026-07-09T11:38:53.036712596Z [err]  2026-07-09 11:38:53,033 INFO Saved: Advanced: Custom Domain mapping
+2026-07-09T11:38:53.037954691Z [err]  2026-07-09 11:38:53,036 INFO Saved: How to manually install & activate OptiSigns AI Add-on on Linux or Raspberry Pi
+2026-07-09T11:38:53.040662830Z [err]  2026-07-09 11:38:53,038 INFO Saved: How to run OptiSigns AI Add-on on start up in Windows
+2026-07-09T11:38:53.050699595Z [err]  2026-07-09 11:38:53,044 INFO Saved: Audience Intelligence (AI Camera) FAQs
+2026-07-09T11:38:53.050704975Z [err]  2026-07-09 11:38:53,049 INFO Saved: Advanced: Proof of Play (or Playback report)
+2026-07-09T11:38:53.051969620Z [err]  2026-07-09 11:38:53,050 INFO Saved: Pre-configure Wi-Fi with OptiSigns devices
+2026-07-09T11:38:53.051974190Z [err]  2026-07-09 11:38:53,051 INFO Saved: How does pre-configured devices labeled in shipping package?
+2026-07-09T11:38:53.058714182Z [err]  2026-07-09 11:38:53,054 INFO Saved: Advanced: How to Install & Activate OptiSigns Remote Agent on Windows
+2026-07-09T11:38:53.072426843Z [err]  2026-07-09 11:38:53,069 INFO Saved: Remotely Control and Command OptiSigns Devices
+2026-07-09T11:38:53.072430623Z [err]  2026-07-09 11:38:53,071 INFO Saved: How to Enable/Disable Auto Update for OptiSigns app on Fire TV
+2026-07-09T11:38:53.079697529Z [err]  2026-07-09 11:38:53,074 INFO Saved: Advanced: How to Manually Install & Activate OptiSigns Remote Agent on Linux or Raspberry Pi
+2026-07-09T11:38:53.079701619Z [err]  2026-07-09 11:38:53,076 INFO Saved: How to Use USB HUB Adaptor Connect to Your Fire Stick
+2026-07-09T11:38:53.079705269Z [err]  2026-07-09 11:38:53,078 INFO Saved: How to Change Time Zone on Your Raspberry Pi device
+2026-07-09T11:38:53.085145327Z [err]  2026-07-09 11:38:53,080 INFO Saved: How To Connect To WiFi For Raspberry Pi
+2026-07-09T11:38:53.091078008Z [err]  2026-07-09 11:38:53,089 INFO Saved: OptiSigns Side Menu Options
+2026-07-09T11:38:53.092674819Z [err]  2026-07-09 11:38:53,091 INFO Saved: How to Factory Reset Your Fire Stick device 
+2026-07-09T11:38:53.095596556Z [err]  2026-07-09 11:38:53,093 INFO Saved: How to Clear Cache on Your Fire Stick device
+2026-07-09T11:38:53.096243899Z [err]  2026-07-09 11:38:53,094 INFO Saved: How to Change Time Zone on Your Fire Stick device
+2026-07-09T11:38:53.099066316Z [err]  2026-07-09 11:38:53,097 INFO Saved: How to uninstall/reinstall OptiSigns app from your Fire Stick device
+2026-07-09T11:38:53.100380361Z [err]  2026-07-09 11:38:53,099 INFO Saved: How to Update Fire TV OS to latest version
+2026-07-09T11:38:53.106470861Z [err]  2026-07-09 11:38:53,102 INFO Saved: How to Set up an Instagram Business/Creator account
+2026-07-09T11:38:53.106475211Z [err]  2026-07-09 11:38:53,103 INFO Saved: Difference between Instagram & Instagram Business App
+2026-07-09T11:38:53.106478691Z [err]  2026-07-09 11:38:53,105 INFO Saved: How to use Overlay layers with OptiSigns
+2026-07-09T11:38:53.130280796Z [err]  2026-07-09 11:38:53,121 INFO Saved: Edit Screen: What does each option do?
+2026-07-09T11:38:53.130289275Z [err]  2026-07-09 11:38:53,124 INFO Saved: Whitelist OptiSigns IP addresses & ports
+2026-07-09T11:38:53.130294515Z [err]  2026-07-09 11:38:53,128 INFO Saved: Amazon Fire Stick and security considerations
+2026-07-09T11:38:53.136572403Z [err]  2026-07-09 11:38:53,134 INFO Saved: Advanced Security: Managing User Roles
+2026-07-09T11:38:53.138029456Z [err]  2026-07-09 11:38:53,136 INFO Saved: There's no sounds output for my Raspberry Pi
+2026-07-09T11:38:53.147741624Z [err]  2026-07-09 11:38:53,144 INFO Saved: Folder Level Permissions
+2026-07-09T11:38:53.147744834Z [err]  2026-07-09 11:38:53,145 INFO Saved: Organizing your files, assets, playlists and schedules by using Folders
+2026-07-09T11:38:53.149060739Z [err]  2026-07-09 11:38:53,148 INFO Saved: How to Create and Use Nested Playlists
+2026-07-09T11:38:53.155018830Z [err]  2026-07-09 11:38:53,153 INFO Saved: How to set an asset to Live or Expire at specific time
+2026-07-09T11:38:53.161035851Z [err]  2026-07-09 11:38:53,156 INFO Saved: How to re-encode video files for better compatibility on your devices
+2026-07-09T11:38:53.161043651Z [err]  2026-07-09 11:38:53,158 INFO Saved: Roku Release Notes & Limitation
+2026-07-09T11:38:53.161047931Z [err]  2026-07-09 11:38:53,160 INFO Saved: How to change Billing information
+2026-07-09T11:38:53.163040278Z [err]  2026-07-09 11:38:53,161 INFO Saved: My image, content are bleeding off the screens with Windows, Linux, Mac, Raspberry Pi app (need screen calibration)
+2026-07-09T11:38:53.164334903Z [err]  2026-07-09 11:38:53,163 INFO Saved: Assign Default Content for Schedules
+2026-07-09T11:38:53.170365143Z [err]  2026-07-09 11:38:53,167 INFO Saved: How to install OptiSigns as channel/app on Roku
+2026-07-09T11:38:53.172200542Z [err]  2026-07-09 11:38:53,171 INFO Saved: Video codec or video playback issues
+2026-07-09T11:38:53.178354420Z [err]  2026-07-09 11:38:53,174 INFO Saved: How to use the Atlassian JIRA app
+2026-07-09T11:38:53.178360940Z [err]  2026-07-09 11:38:53,176 INFO Saved: How to display content inside websites that require login?
+2026-07-09T11:38:53.178364420Z [err]  2026-07-09 11:38:53,176 INFO Saved: Adjusting social, news wall speeds
+2026-07-09T11:38:53.180589015Z [err]  2026-07-09 11:38:53,179 INFO Saved: My image, content are bleeding off the screens with Fire TV (need screen calibration)
+2026-07-09T11:38:53.187180249Z [err]  2026-07-09 11:38:53,185 INFO Saved: Working with Teams and Security Levels
+2026-07-09T11:38:53.190236954Z [err]  2026-07-09 11:38:53,188 INFO Saved: Windows
+2026-07-09T11:38:53.190241544Z [err]  2026-07-09 11:38:53,189 INFO Saved: PowerPoint Transition and Animation effect
+2026-07-09T11:38:53.195891188Z [err]  2026-07-09 11:38:53,192 INFO Saved: PowerPoint Resolution, Size for use with Digital Signage
+2026-07-09T11:38:53.195894838Z [err]  2026-07-09 11:38:53,193 INFO Saved: Stretch your images, document - Stretch vs Fit vs Zoom your content
+2026-07-09T11:38:53.195897678Z [err]  2026-07-09 11:38:53,195 INFO Saved: How to create a scrolling strip / bars
+2026-07-09T11:38:53.203381092Z [err]  2026-07-09 11:38:53,202 INFO Saved: How to Create and Use the Split Screen App
+2026-07-09T11:38:53.203384492Z [err]  2026-07-09 11:38:53,203 INFO Saved: How Can I Remove/Delete Uploaded Files or Assets?
+2026-07-09T11:38:53.205011093Z [err]  2026-07-09 11:38:53,203 INFO Saved: How to start OptiSigns automatically when devices boot up
+2026-07-09T11:38:53.206299588Z [err]  2026-07-09 11:38:53,205 INFO Saved: Can I Disable the Download Button for Assets?
+2026-07-09T11:38:53.211788315Z [err]  2026-07-09 11:38:53,207 INFO Saved: How to Install an APK file on your Fire TV
+2026-07-09T11:38:53.211794295Z [err]  2026-07-09 11:38:53,207 INFO Saved: Does OptiSigns offer Non-profit/Education discount?
+2026-07-09T11:38:53.211797495Z [err]  2026-07-09 11:38:53,210 INFO Saved: How to Upload & Manage Your Files/ Assets
+2026-07-09T11:38:53.217876084Z [err]  2026-07-09 11:38:53,215 INFO Saved: What types of files are supported?
+2026-07-09T11:38:53.225046341Z [err]  2026-07-09 11:38:53,223 INFO Saved: Animation
+2026-07-09T11:38:53.238028812Z [err]  2026-07-09 11:38:53,235 INFO Saved: ProPlayer
+2026-07-09T11:38:53.252588903Z [err]  2026-07-09 11:38:53,250 INFO Saved: How to Use the OptiSigns Mobile Admin App
+2026-07-09T11:38:53.257570706Z [err]  2026-07-09 11:38:53,255 INFO Saved: How to add a Microsoft 365 Excel Spreadsheet as a DataSource for OptiSync
+2026-07-09T11:38:53.267817678Z [err]  2026-07-09 11:38:53,266 INFO Saved: How to Manage and Edit Your Playlist Settings
+2026-07-09T11:38:53.270381968Z [err]  2026-07-09 11:38:53,269 INFO Saved: How to Fix The Scaling Issue on OptiSigns Android Device Gen 3
+2026-07-09T11:38:53.274909826Z [err]  2026-07-09 11:38:53,273 INFO Saved: How to get the most out of your Digital Signs
+2026-07-09T11:38:53.281284643Z [err]  2026-07-09 11:38:53,276 INFO Saved: How to Share Contents with Other Users/Teams
+2026-07-09T11:38:53.281290313Z [err]  2026-07-09 11:38:53,277 INFO Saved: How to get the list of playlists where the asset is used 
+2026-07-09T11:38:53.281294333Z [err]  2026-07-09 11:38:53,279 INFO Saved: Generate & Manage OptiSigns API Key
+2026-07-09T11:38:53.281297933Z [err]  2026-07-09 11:38:53,280 INFO Saved: View Billing History and Download Receipts
+2026-07-09T11:38:53.282926733Z [err]  2026-07-09 11:38:53,282 INFO Saved: How to link Instagram Business or Creator Account to Facebook Account
+2026-07-09T11:38:53.290007931Z [err]  2026-07-09 11:38:53,289 INFO Saved: How to Use Google Slides with OptiSigns
+2026-07-09T11:38:53.296664894Z [err]  2026-07-09 11:38:53,292 INFO Saved: MacOS
+2026-07-09T11:38:53.296670964Z [err]  2026-07-09 11:38:53,293 INFO Saved: How to Preview a Screen
+2026-07-09T11:38:53.296675454Z [err]  2026-07-09 11:38:53,294 INFO Saved: How to use a PDF with OptiSigns
+2026-07-09T11:38:53.296678934Z [err]  2026-07-09 11:38:53,295 INFO Saved: How to Check WiFi Signal Strength on the Amazon Fire TV Stick
+2026-07-09T11:38:53.304206518Z [err]  2026-07-09 11:38:53,300 INFO Saved: Your Templates
+2026-07-09T11:38:53.319148685Z [err]  2026-07-09 11:38:53,314 INFO Saved: ProMax
+2026-07-09T11:38:53.321451038Z [err]  2026-07-09 11:38:53,319 INFO Saved: How to Contact OptiSigns Support
+2026-07-09T11:38:53.328588865Z [err]  2026-07-09 11:38:53,324 INFO Saved: How to add Google Sheets as a DataSource for OptiSync
+2026-07-09T11:38:53.328599475Z [err]  2026-07-09 11:38:53,326 INFO Saved: I received the OptiSigns device but it's OnHold and cannot assign content
+2026-07-09T11:38:53.330654872Z [err]  2026-07-09 11:38:53,329 INFO Saved: How to cancel subscription or pause subscription for Seasonal Use Case
+2026-07-09T11:38:53.337332985Z [err]  2026-07-09 11:38:53,333 INFO Saved: How to install OptiSigns Player on Apple TV
+2026-07-09T11:38:53.339114935Z [err]  2026-07-09 11:38:53,337 INFO Saved: Get Started with OptiSigns API
+2026-07-09T11:38:53.340904963Z [err]  2026-07-09 11:38:53,340 INFO Saved: Advanced: How to assign security for users to only edit certain zones of the screens
+2026-07-09T11:38:53.348103920Z [err]  2026-07-09 11:38:53,344 INFO Saved: Set OptiSigns as ScreenSaver on Windows
+2026-07-09T11:38:53.348110180Z [err]  2026-07-09 11:38:53,345 INFO Saved: Show YouTube video's subtitle/closed caption
+2026-07-09T11:38:53.357101886Z [err]  2026-07-09 11:38:53,353 INFO Saved: Linux
+2026-07-09T11:38:53.357107146Z [err]  2026-07-09 11:38:53,355 INFO Saved: Changing screen's orientation (portrait & landscape)
+2026-07-09T11:38:53.363248526Z [err]  2026-07-09 11:38:53,359 INFO Saved: How can I remotely start/restart OptiSigns app on Fire TV?
+2026-07-09T11:38:53.364664650Z [err]  2026-07-09 11:38:53,364 INFO Saved: How to create and use Instagram Wall
+2026-07-09T11:38:53.366411610Z [err]  2026-07-09 11:38:53,365 INFO Saved: What if I want to increase, decrease number of screens during the month?
+2026-07-09T11:38:53.380711745Z [err]  2026-07-09 11:38:53,375 INFO Saved: Kiosk10
+2026-07-09T11:38:53.405032883Z [err]  2026-07-09 11:38:53,398 INFO Saved: Widgets in Designer
+2026-07-09T11:38:53.412319859Z [err]  2026-07-09 11:38:53,408 INFO Saved: How to Display Dynamic Event Schedules Using OptiSync
+2026-07-09T11:38:53.413905391Z [err]  2026-07-09 11:38:53,412 INFO Saved: How to Fix The Scaling Issue on OptiSigns Android Device
+2026-07-09T11:38:53.415098737Z [err]  2026-07-09 11:38:53,414 INFO Saved: How to manage Sub-Account billing with OptiSigns
+2026-07-09T11:38:53.421410244Z [err]  2026-07-09 11:38:53,416 INFO Saved: How to install OptiSigns on Samsung Tizen Smart TVs
+2026-07-09T11:38:53.423062905Z [err]  2026-07-09 11:38:53,421 INFO Saved: GraphQL API Tutorial: Pair and Assign Content to Screen
+2026-07-09T11:38:53.423066105Z [err]  2026-07-09 11:38:53,422 INFO Saved: Moderate your social media feeds
+2026-07-09T11:38:53.429847446Z [err]  2026-07-09 11:38:53,426 INFO Saved: Android TV / ChromeCast
+2026-07-09T11:38:53.432408317Z [err]  2026-07-09 11:38:53,430 INFO Saved: How to use Approval Workflow feature
+2026-07-09T11:38:53.436895245Z [err]  2026-07-09 11:38:53,435 INFO Saved: What hardware and devices are supported?
+2026-07-09T11:38:53.436903995Z [err]  2026-07-09 11:38:53,436 INFO Saved: How to tell which Dropbox account that I linked to OptiSigns?
+2026-07-09T11:38:53.448003897Z [err]  2026-07-09 11:38:53,446 INFO Saved: How to Use Weather Apps in OptiSigns
+2026-07-09T11:38:53.453955418Z [err]  2026-07-09 11:38:53,449 INFO Saved: Assign content to your screens
+2026-07-09T11:38:53.464151351Z [err]  2026-07-09 11:38:53,462 INFO Saved: Kiosk32
+2026-07-09T11:38:53.487546321Z [err]  2026-07-09 11:38:53,480 INFO Saved: Photos, GIFs, and QR Codes in Designer
+2026-07-09T11:38:53.496793803Z [err]  2026-07-09 11:38:53,492 INFO Saved: How to Display Birthday Lists with OptiSync Data Mapping and Google Sheets
+2026-07-09T11:38:53.498273496Z [err]  2026-07-09 11:38:53,496 INFO Saved: Display Device Info Onscreen
+2026-07-09T11:38:53.499485602Z [err]  2026-07-09 11:38:53,498 INFO Saved: Present/ share iOS/ Android phone/ tablet to your screen with OptiSigns & AeriCast Add-on
+2026-07-09T11:38:53.505153987Z [err]  2026-07-09 11:38:53,504 INFO Saved: Tutorial: Create, Update, Add, Remove items from Playlists
+2026-07-09T11:38:53.511142148Z [err]  2026-07-09 11:38:53,506 INFO Saved: Multilingual and multi-currency
+2026-07-09T11:38:53.511147528Z [err]  2026-07-09 11:38:53,509 INFO Saved: How to install OptiSigns Player on Android Boxes
+2026-07-09T11:38:53.521956983Z [err]  2026-07-09 11:38:53,520 INFO Saved: Raspberry Pi
+2026-07-09T11:38:53.565853766Z [err]  2026-07-09 11:38:53,563 INFO Saved: Multi-users: Invite your team members to your account
+2026-07-09T11:38:53.572428100Z [err]  2026-07-09 11:38:53,568 INFO Saved: Set up & add a screen
+2026-07-09T11:38:53.586035243Z [err]  2026-07-09 11:38:53,580 INFO Saved: Kiosk50
+2026-07-09T11:38:53.598735777Z [err]  2026-07-09 11:38:53,595 INFO Saved: Customize Text
+2026-07-09T11:38:53.599692045Z [err]  2026-07-09 11:38:53,598 INFO Saved: Tutorial: Creating or Updating Website Assets Using GraphQL
+2026-07-09T11:38:53.611860975Z [err]  2026-07-09 11:38:53,608 INFO Saved: How to Create Custom News Feeds with  OptiSync
+2026-07-09T11:38:53.617376212Z [err]  2026-07-09 11:38:53,614 INFO Saved: Amazon Signage Stick
+2026-07-09T11:38:53.623451311Z [err]  2026-07-09 11:38:53,619 INFO Saved: How to use AeriCast Add-on for Wireless Presentation and Video Conferencing
+2026-07-09T11:38:53.623460171Z [err]  2026-07-09 11:38:53,621 INFO Saved: How to Change Account Owners
+2026-07-09T11:38:53.630703597Z [err]  2026-07-09 11:38:53,627 INFO Saved: How to Install OptiSigns as an APK File on Android Devices
+2026-07-09T11:38:53.630707587Z [err]  2026-07-09 11:38:53,628 INFO Saved: How to unpair a device, screen?
+2026-07-09T11:38:53.630711267Z [err]  2026-07-09 11:38:53,628 INFO Saved: How far back or how many posts will be fetched for my Social Walls?
+2026-07-09T11:38:53.630715117Z [err]  2026-07-09 11:38:53,629 INFO Saved: How to use iMovie content with OptiSigns?
+2026-07-09T11:38:53.636689188Z [err]  2026-07-09 11:38:53,635 INFO Saved: Legacy DataSources
+2026-07-09T11:38:53.652514486Z [err]  2026-07-09 11:38:53,649 INFO Saved: Shapes and Elements
+2026-07-09T11:38:53.658823562Z [err]  2026-07-09 11:38:53,654 INFO Saved: Tutorial: Creating Schedules and Adding Schedule Items Using GraphQL
+2026-07-09T11:38:53.666168228Z [err]  2026-07-09 11:38:53,665 INFO Saved: OptiSigns Pro Player Advanced Features
+2026-07-09T11:38:53.672050271Z [err]  2026-07-09 11:38:53,667 INFO Saved: How to add captions to Vimeo videos
+2026-07-09T11:38:53.672057310Z [err]  2026-07-09 11:38:53,670 INFO Saved: Present / share your screen with OptiSigns & AeriCast Add-on
+2026-07-09T11:38:53.672061360Z [err]  2026-07-09 11:38:53,671 INFO Saved: How to Delete Your Account from OptiSigns
+2026-07-09T11:38:53.679048919Z [err]  2026-07-09 11:38:53,678 INFO Saved: Amazon Firestick
+2026-07-09T11:38:53.682095314Z [err]  2026-07-09 11:38:53,681 INFO Saved: Kiosk Setup Hub
+2026-07-09T11:38:53.687910557Z [err]  2026-07-09 11:38:53,687 INFO Saved: Brand Kit and Enforcing Brand Guidelines
+2026-07-09T11:38:53.689332250Z [err]  2026-07-09 11:38:53,688 INFO Saved: Update OptiSigns player on OptiSigns Pro Player (Gen 2) via script
+2026-07-09T11:38:53.697357298Z [err]  2026-07-09 11:38:53,691 INFO Saved: How to use the MustHaveMenus  app with OptiSigns
+2026-07-09T11:38:53.697360958Z [err]  2026-07-09 11:38:53,695 INFO Saved: Pagination
+2026-07-09T11:38:53.697364688Z [err]  2026-07-09 11:38:53,696 INFO Saved: How to replace/update an existing asset (image, video, documents)
+2026-07-09T11:38:53.908085775Z [err]  2026-07-09 11:38:53,701 INFO Saved: FireOS TVs (Amazon, Insigna, Toshiba, TCL)
+2026-07-09T11:38:53.908089115Z [err]  2026-07-09 11:38:53,705 INFO Saved: About the OnHold Devices Folder
+2026-07-09T11:38:53.908092615Z [err]  2026-07-09 11:38:53,719 INFO Saved: Creating and Using Schedules with OptiSigns
+2026-07-09T11:38:53.908096805Z [err]  2026-07-09 11:38:53,721 INFO Saved: Why Does My Screen Show as "Offline" on the Web Portal?
+2026-07-09T11:38:53.908100425Z [err]  2026-07-09 11:38:53,743 INFO Saved: Where to Buy OptiSigns Devices
+2026-07-09T11:38:53.908103785Z [err]  2026-07-09 11:38:53,747 INFO Saved: How to use Waitwhile App
+2026-07-09T11:38:53.908107105Z [err]  2026-07-09 11:38:53,753 INFO Saved: BrightSign Players
+2026-07-09T11:38:53.908110565Z [err]  2026-07-09 11:38:53,754 INFO Saved: Error Handling
+2026-07-09T11:38:53.908114735Z [err]  2026-07-09 11:38:53,755 INFO Saved: How can I improve stability of Fire TV as Digital Signage player?
+2026-07-09T11:38:53.908118105Z [err]  2026-07-09 11:38:53,756 INFO Saved: Can I have my invoices, receipts sent to a different email address?
+2026-07-09T11:38:53.908121605Z [err]  2026-07-09 11:38:53,759 INFO Saved: Subscription Function in GraphQL
+2026-07-09T11:38:53.908124644Z [err]  2026-07-09 11:38:53,761 INFO Saved: How to display Google Slide in Portrait Mode
+2026-07-09T11:38:53.908128114Z [err]  2026-07-09 11:38:53,762 INFO Saved: What happen if internet connection is lost?
+2026-07-09T11:38:53.908131294Z [err]  2026-07-09 11:38:53,763 INFO Saved: Web browser as OptiSigns player
+2026-07-09T11:38:53.908135034Z [err]  2026-07-09 11:38:53,776 INFO Saved: Setting Up Your Samsung Smart Signage Platform (SSSP - Commercial Grade)
+2026-07-09T11:38:53.908137974Z [err]  2026-07-09 11:38:53,778 INFO Saved: How to use Monday.com App
+2026-07-09T11:38:53.908141504Z [err]  2026-07-09 11:38:53,779 INFO Saved: API Reference
+2026-07-09T11:38:53.908146094Z [err]  2026-07-09 11:38:53,780 INFO Saved: How to export high resolution canvas, template designs
+2026-07-09T11:38:53.909034544Z [err]  2026-07-09 11:38:53,782 INFO Saved: Show Offline Indicator feature
+2026-07-09T11:38:53.909037734Z [err]  2026-07-09 11:38:53,785 INFO Saved: How to use Website Screenshot app
+2026-07-09T11:38:53.909042003Z [err]  2026-07-09 11:38:53,791 INFO Saved: LG WebOS Signage (Commercial Grade)
+2026-07-09T11:38:53.909045473Z [err]  2026-07-09 11:38:53,792 INFO Saved: Is there storage limit for my account?
+2026-07-09T11:38:53.909048693Z [err]  2026-07-09 11:38:53,793 INFO Saved: Show/Hide Offline Indicator on your Player
+2026-07-09T11:38:53.909052463Z [err]  2026-07-09 11:38:53,798 INFO Saved: How to use Airtable with OptiSigns
+2026-07-09T11:38:53.909055963Z [err]  2026-07-09 11:38:53,800 INFO Saved: How to Clean Data on the OptiSigns Android Stick
+2026-07-09T11:38:53.909059273Z [err]  2026-07-09 11:38:53,802 INFO Saved: Use Your Mac/Windows Device as a Test Screen
+2026-07-09T11:38:53.909062583Z [err]  2026-07-09 11:38:53,802 INFO Saved: How do I suggest new features, improvement?
+2026-07-09T11:38:53.909065813Z [err]  2026-07-09 11:38:53,812 INFO Saved: How to use the QR Scan-to-Interact (Touchless QR) app
+2026-07-09T11:38:53.909068993Z [err]  2026-07-09 11:38:53,816 INFO Saved: How to display SmartSheet report on OptiSigns
+2026-07-09T11:38:53.909072223Z [err]  2026-07-09 11:38:53,818 INFO Saved: How to use the Video Stream app
+2026-07-09T11:38:53.909075503Z [err]  2026-07-09 11:38:53,820 INFO Saved: How to use RTSP Streams on OptiSigns Devices
+2026-07-09T11:38:53.909078943Z [err]  2026-07-09 11:38:53,824 INFO Saved: How to use RTSP Stream on Windows or Raspberry Pi via OptiSigns 
+2026-07-09T11:38:53.909082273Z [err]  2026-07-09 11:38:53,829 INFO Saved: How to Use the Weather Alert App
+2026-07-09T11:38:53.909085463Z [err]  2026-07-09 11:38:53,844 INFO Saved: How to Use the CAP Alert App
+2026-07-09T11:38:53.909088603Z [err]  2026-07-09 11:38:53,846 INFO Saved: How to use Matterport App
+2026-07-09T11:38:53.909091943Z [err]  2026-07-09 11:38:53,851 INFO Saved: How to use OptiSigns Screen Capture app
+2026-07-09T11:38:53.911757962Z [err]  2026-07-09 11:38:53,908 INFO Saved: How to use MRSS feeds with OptiSigns
+2026-07-09T11:38:53.911835982Z [err]  2026-07-09 11:38:53,855 INFO Saved: How to use Advanced Website App
+2026-07-09T11:38:53.911840172Z [err]  2026-07-09 11:38:53,857 INFO Saved: How to use Notion App
+2026-07-09T11:38:53.911845912Z [err]  2026-07-09 11:38:53,863 INFO Saved: How to use Microsoft Excel Online with OptiSigns
+2026-07-09T11:38:53.911849732Z [err]  2026-07-09 11:38:53,873 INFO Saved: How to display Microsoft Teams on OptiSigns
+2026-07-09T11:38:53.911853382Z [err]  2026-07-09 11:38:53,880 INFO Saved: Displaying SharePoint Sites on OptiSigns
+2026-07-09T11:38:53.911857412Z [err]  2026-07-09 11:38:53,889 INFO Saved: How to Use Microsoft PowerPoint with OptiSigns
+2026-07-09T11:38:53.911861121Z [err]  2026-07-09 11:38:53,893 INFO Saved: How to use Microsoft Teams Live app with OptiSigns
+2026-07-09T11:38:53.911865901Z [err]  2026-07-09 11:38:53,896 INFO Saved: How to use livestream.com app
+2026-07-09T11:38:53.911869901Z [err]  2026-07-09 11:38:53,902 INFO Saved: How to Use the Emergency Feed App
+2026-07-09T11:38:53.911873601Z [err]  2026-07-09 11:38:53,905 INFO Saved: How to setup WIFI with OptiSigns Admin mobile app on OptiSigns Pre-Configured Android Player
+2026-07-09T11:38:53.915114414Z [err]  2026-07-09 11:38:53,913 INFO Saved: How to use Calendar Mix app
+2026-07-09T11:38:53.923013703Z [err]  2026-07-09 11:38:53,918 INFO Saved: How to use Slack App
+2026-07-09T11:38:53.929070712Z [err]  2026-07-09 11:38:53,926 INFO Saved: How to Use the Microsoft Meeting Room App
+2026-07-09T11:38:53.938704171Z [err]  2026-07-09 11:38:53,935 INFO Saved: How to use LinkedIn App
+2026-07-09T11:38:53.938707611Z [err]  2026-07-09 11:38:53,937 INFO Saved: How to use Microsoft Teams Meeting app with OptiSigns
+2026-07-09T11:38:53.944680622Z [err]  2026-07-09 11:38:53,942 INFO Saved: How to use the Social Mix App
+2026-07-09T11:38:53.950962110Z [err]  2026-07-09 11:38:53,946 INFO Saved: How to use the CBC News App
+2026-07-09T11:38:53.950970440Z [err]  2026-07-09 11:38:53,950 INFO Saved: How to use On This Day app
+2026-07-09T11:38:53.956343088Z [err]  2026-07-09 11:38:53,952 INFO Saved: How to use the Taggbox Display app with OptiSigns
+2026-07-09T11:38:53.956349968Z [err]  2026-07-09 11:38:53,955 INFO Saved: How to use the MindMeister App
+2026-07-09T11:38:53.962959061Z [err]  2026-07-09 11:38:53,961 INFO Saved: How to Best Use Canva with OptiSigns
+2026-07-09T11:38:53.964034179Z [err]  2026-07-09 11:38:53,963 INFO Saved: How to use Asana App
+2026-07-09T11:38:53.965384353Z [err]  2026-07-09 11:38:53,964 INFO Saved: How to use YouTube Live with OptiSigns
+2026-07-09T11:38:53.970811730Z [err]  2026-07-09 11:38:53,967 INFO Saved: How to use HDMI & other video input sources in with OptiSigns
+2026-07-09T11:38:53.976977970Z [err]  2026-07-09 11:38:53,975 INFO Saved: How to Use the Local Folder App in OptiSigns
+2026-07-09T11:38:53.982462666Z [err]  2026-07-09 11:38:53,980 INFO Saved: How to use YouTube Live Schedule with OptiSigns
+2026-07-09T11:38:53.987835023Z [err]  2026-07-09 11:38:53,983 INFO Saved: How to use YouTube Channel with OptiSigns 
+2026-07-09T11:38:53.987839523Z [err]  2026-07-09 11:38:53,985 INFO Saved: How to put ZenDesk Dashboard on your signs
+2026-07-09T11:38:53.989176878Z [err]  2026-07-09 11:38:53,988 INFO Saved: How to use Google Docs with OptiSigns
+2026-07-09T11:38:54.002028960Z [err]  2026-07-09 11:38:53,997 INFO Saved: How to use Google Sheets with OptiSigns
+2026-07-09T11:38:54.002036199Z [err]  2026-07-09 11:38:54,000 INFO Saved: How to use Scrolling Website App
+2026-07-09T11:38:54.003035918Z [err]  2026-07-09 11:38:54,002 INFO Saved: How to create and use Virtual Screen App
+2026-07-09T11:38:54.012173233Z [err]  2026-07-09 11:38:54,008 INFO Saved: How to use Kiosk Lite (formerly known as Interactive Kiosk app)
+2026-07-09T11:38:54.025059554Z [err]  2026-07-09 11:38:54,020 INFO Saved: How to Use the Flash Message App
+2026-07-09T11:38:54.027896271Z [err]  2026-07-09 11:38:54,024 INFO Saved: How to use Emergency Message/Alert App
+2026-07-09T11:38:54.032154022Z [err]  2026-07-09 11:38:54,029 INFO Saved: How to Use the Data Studio App
+2026-07-09T11:38:54.033817683Z [err]  2026-07-09 11:38:54,033 INFO Saved: How to use Facebook Recommendations App
+2026-07-09T11:38:54.040318198Z [err]  2026-07-09 11:38:54,039 INFO Saved: How to use Instagram Business App
+2026-07-09T11:38:54.041578203Z [err]  2026-07-09 11:38:54,040 INFO Saved: How to use Trello App
+2026-07-09T11:38:54.045628476Z [err]  2026-07-09 11:38:54,044 INFO Saved: How to use YouTube with OptiSigns
+2026-07-09T11:38:54.051359430Z [err]  2026-07-09 11:38:54,047 INFO Saved: How to use Follow Us App
+2026-07-09T11:38:54.051365490Z [err]  2026-07-09 11:38:54,050 INFO Saved: How to use Facebook Video App
+2026-07-09T11:38:54.057310051Z [err]  2026-07-09 11:38:54,054 INFO Saved: How to use Dropbox App
+2026-07-09T11:38:54.063404422Z [err]  2026-07-09 11:38:54,060 INFO Saved: How to use the OneDrive App
+2026-07-09T11:38:54.065133461Z [err]  2026-07-09 11:38:54,064 INFO Saved: How to use Google Trends App
+2026-07-09T11:38:54.071730255Z [err]  2026-07-09 11:38:54,066 INFO Saved: How to use Walls.io App
+2026-07-09T11:38:54.071734725Z [err]  2026-07-09 11:38:54,069 INFO Saved: How to use Currency Exchange App
+2026-07-09T11:38:54.073586944Z [err]  2026-07-09 11:38:54,072 INFO Saved: How to use Crypto Index & Crypto Exchange App
+2026-07-09T11:38:54.079392106Z [err]  2026-07-09 11:38:54,075 INFO Saved: How to use Market Index App
+2026-07-09T11:38:54.080689311Z [err]  2026-07-09 11:38:54,079 INFO Saved: How to use Google Drive App
+2026-07-09T11:38:54.086209858Z [err]  2026-07-09 11:38:54,082 INFO Saved: How to use the Motivational Quote App
+2026-07-09T11:38:54.086214758Z [err]  2026-07-09 11:38:54,085 INFO Saved: How to use Facebook Live Stream App
+2026-07-09T11:38:54.091551846Z [err]  2026-07-09 11:38:54,088 INFO Saved: How to use Instagram Counter App
+2026-07-09T11:38:54.091559566Z [err]  2026-07-09 11:38:54,090 INFO Saved: How to use Google Traffic App
+2026-07-09T11:38:54.097397909Z [err]  2026-07-09 11:38:54,093 INFO Saved: How to use Twitch App
+2026-07-09T11:38:54.098690644Z [err]  2026-07-09 11:38:54,097 INFO Saved: How to use the Facebook Counter App
+2026-07-09T11:38:54.105425716Z [err]  2026-07-09 11:38:54,102 INFO Saved: How to use the New York Times app
+2026-07-09T11:38:54.113027998Z [err]  2026-07-09 11:38:54,106 INFO Saved: How to use the Guardian App
+2026-07-09T11:38:54.113031778Z [err]  2026-07-09 11:38:54,111 INFO Saved: How to use the Wall Street Journal App
+2026-07-09T11:38:54.119006849Z [err]  2026-07-09 11:38:54,117 INFO Saved: How to Use the Stock App
+2026-07-09T11:38:54.130882382Z [err]  2026-07-09 11:38:54,127 INFO Saved: How to Use the Simple Clock App
+2026-07-09T11:38:54.132343755Z [err]  2026-07-09 11:38:54,131 INFO Saved: How to use World Clock App
+2026-07-09T11:38:54.145336306Z [err]  2026-07-09 11:38:54,141 INFO Saved: How to Use the CountUp App
+2026-07-09T11:38:54.152872378Z [err]  2026-07-09 11:38:54,151 INFO Saved: How to use the CountDown App
+2026-07-09T11:38:54.159143926Z [err]  2026-07-09 11:38:54,155 INFO Saved: How to use Simple Calendar App
+2026-07-09T11:38:54.166854647Z [err]  2026-07-09 11:38:54,161 INFO Saved: How to use the TechCrunch News App
+2026-07-09T11:38:54.172670450Z [err]  2026-07-09 11:38:54,168 INFO Saved: How to use the ESPN News App
+2026-07-09T11:38:54.180566729Z [err]  2026-07-09 11:38:54,175 INFO Saved: How to use the CNN News App
+2026-07-09T11:38:54.180571128Z [err]  2026-07-09 11:38:54,178 INFO Saved: How to create and use QR Code, Call To Action app
+2026-07-09T11:38:54.191888258Z [err]  2026-07-09 11:38:54,182 INFO Saved: How to create and use Yelp Reviews Wall
+2026-07-09T11:38:54.191892697Z [err]  2026-07-09 11:38:54,188 INFO Saved: How to create and use Google Reviews Wall
+2026-07-09T11:38:54.199618538Z [err]  2026-07-09 11:38:54,196 INFO Saved: How to Use Microsoft Outlook Calendar with OptiSigns
+2026-07-09T11:38:54.204781408Z [err]  2026-07-09 11:38:54,200 INFO Saved: How to use RSS feeds with OptiSigns
+2026-07-09T11:38:54.204786048Z [err]  2026-07-09 11:38:54,202 INFO Saved: How to use Embed App
+2026-07-09T11:38:54.217301684Z [err]  2026-07-09 11:38:54,216 INFO Saved: How to Display Microsoft Power BI Dashboards & Reports with OptiSigns
+2026-07-09T11:38:54.229397155Z [err]  2026-07-09 11:38:54,225 INFO Saved: How to Use the Facebook Page App
+2026-07-09T11:38:54.236281705Z [err]  2026-07-09 11:38:54,235 INFO Saved: How to use published Google Slides with OptiSigns (old way)
+2026-07-09T11:38:54.243105156Z [err]  2026-07-09 11:38:54,241 INFO Saved: How to use the News App
+2026-07-09T11:38:54.256720299Z [err]  2026-07-09 11:38:54,253 INFO Saved: How to use Google Calendar with OptiSigns
+2026-07-09T11:38:54.256726029Z [err]  2026-07-09 11:38:54,255 INFO Saved: How to add & use Vimeo video with OptiSigns
+2026-07-09T11:38:54.263825317Z [err]  2026-07-09 11:38:54,261 INFO Saved: How to Use the Website App and Display URLs on OptiSigns
+2026-07-09T11:38:54.265260010Z [err]  2026-07-09 11:38:54,263 INFO Scrape completed
+2026-07-09T11:38:54.284820754Z [err]  2026-07-09 11:38:54,282 INFO Found 406 markdown file(s) in articles
+2026-07-09T11:38:57.543804614Z [err]  2026-07-09 11:38:57,540 INFO HTTP Request: GET https://api.openai.com/v1/vector_stores?limit=100 "HTTP/1.1 200 OK"
+2026-07-09T11:38:57.543810754Z [err]  2026-07-09 11:38:57,542 INFO Reusing existing vector store: OptiSigns Help Center (vs_6a4f5e2893348191949c31a3c2e1707a)
+2026-07-09T11:38:58.936354675Z [err]  2026-07-09 11:38:58,935 INFO HTTP Request: GET https://api.openai.com/v1/vector_stores/vs_6a4f5e2893348191949c31a3c2e1707a/files?filter=completed&limit=100 "HTTP/1.1 200 OK"
+2026-07-09T11:39:01.612728881Z [err]  2026-07-09 11:39:01,580 INFO HTTP Request: GET https://api.openai.com/v1/vector_stores/vs_6a4f5e2893348191949c31a3c2e1707a/files?filter=completed&limit=100&after=file-95LzNT8puXTccpYytRREiQ "HTTP/1.1 200 OK"
+2026-07-09T11:39:02.298803650Z [err]  2026-07-09 11:39:02,297 INFO HTTP Request: GET https://api.openai.com/v1/vector_stores/vs_6a4f5e2893348191949c31a3c2e1707a/files?filter=completed&limit=100&after=file-HYdeuVpo1ic78wmTSns3bu "HTTP/1.1 200 OK"
+2026-07-09T11:39:04.948196187Z [err]  2026-07-09 11:39:04,911 INFO HTTP Request: GET https://api.openai.com/v1/vector_stores/vs_6a4f5e2893348191949c31a3c2e1707a/files?filter=completed&limit=100&after=file-R6T8K2hfd6dXb8WxBFSk71 "HTTP/1.1 200 OK"
+2026-07-09T11:39:06.217531321Z [err]  2026-07-09 11:39:06,214 INFO HTTP Request: GET https://api.openai.com/v1/vector_stores/vs_6a4f5e2893348191949c31a3c2e1707a/files?filter=completed&limit=100&after=file-YGFXUzinNSa2NSwGGkW9Gs "HTTP/1.1 200 OK"
+2026-07-09T11:39:06.368794324Z [err]  2026-07-09 11:39:06,366 INFO No new or updated files to upload
+2026-07-09T11:39:06.725409456Z [err]  2026-07-09 11:39:06,722 INFO HTTP Request: GET https://api.openai.com/v1/assistants/asst_qP7dKwzpiGZ6XeSgXDo3sgeB "HTTP/1.1 200 OK"
+2026-07-09T11:39:07.179142597Z [err]  2026-07-09 11:39:07,151 INFO HTTP Request: POST https://api.openai.com/v1/assistants/asst_qP7dKwzpiGZ6XeSgXDo3sgeB "HTTP/1.1 200 OK"
+2026-07-09T11:39:07.179147717Z [err]  2026-07-09 11:39:07,152 INFO Attached vector store vs_6a4f5e2893348191949c31a3c2e1707a to assistant asst_qP7dKwzpiGZ6XeSgXDo3sgeB
+2026-07-09T11:39:07.179152037Z [err]  2026-07-09 11:39:07,152 INFO Delta summary: 0 added, 0 updated, 406 skipped (vector store 'OptiSigns Help Center', vs_6a4f5e2893348191949c31a3c2e1707a)
+2026-07-09T11:39:07.179156407Z [err]  2026-07-09 11:39:07,152 INFO Upload completed
+2026-07-09T11:39:07.179160727Z [err]  2026-07-09 11:39:07,152 INFO Job finished successfully in 22.1s
